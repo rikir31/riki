@@ -1,7 +1,7 @@
 RENCANA TUGAS PRODUKTIF
 
 -pka
--lka
 -iot
 -iass
 -skj
+-pkk
