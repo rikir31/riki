@@ -1,7 +1,6 @@
 RENCANA TUGAS PRODUKTIF
 
 -pka
- *web hosting
 -iot
  *tinkercad
 -iass
