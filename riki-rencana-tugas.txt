@@ -8,6 +8,7 @@ RENCANA TUGAS PRODUKTIF
  *cisco packet racer
 -skj
 -pkk
+ *berbisnis
 -vlogs
  *kelompok
  *pengisian
