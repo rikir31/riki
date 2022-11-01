@@ -1,7 +1,11 @@
 RENCANA TUGAS PRODUKTIF
 
 -pka
+ *aws educate
 -iot
+-lka
+ *vsc
+ *xampp
 -iass
 -skj
 -pkk
