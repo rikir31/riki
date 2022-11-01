@@ -1,14 +1,13 @@
 RENCANA TUGAS PRODUKTIF
 
 -pka
- *aws educate
 -iot
--lka
- *vsc
- *xampp
+ *tinkercad
 -iass
+ *cisco packet racer
 -skj
 -pkk
+ *berbisnis
 -vlogs
  *kelompok
  *pengisian
